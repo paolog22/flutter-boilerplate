@@ -1,4 +1,4 @@
-# dbo_skin
+# Flutter boilerplate
 
 A new Flutter project.
 
